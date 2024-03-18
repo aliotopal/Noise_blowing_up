@@ -1,1 +1,2 @@
-This Appendix should be read with the original paper. Link of the paper will be annouced after it is publised. 
+This appendix should be consulted together with the original article. 
+A link to the article will be provided after publication.
